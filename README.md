@@ -1,7 +1,3 @@
-# Что нового: (V.1.0.1.) - 10.08.2025
-- Добавлены октавы с 1 по 5 (было с 3 по 5)
-
----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
