@@ -1,3 +1,6 @@
+# [**Нажми на меня и я покажу тебе синтезаторррррррр-**](https://mellojfront.github.io/OneOsc-synth-sequencer/)
+---
+# БЛАБЛАБЛА))
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
